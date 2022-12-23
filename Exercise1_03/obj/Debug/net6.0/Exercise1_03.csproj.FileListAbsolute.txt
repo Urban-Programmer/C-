@@ -1,0 +1,15 @@
+/Users/awil/Documents/C#/Exercise1_03/bin/Debug/net6.0/Exercise1_03
+/Users/awil/Documents/C#/Exercise1_03/bin/Debug/net6.0/Exercise1_03.deps.json
+/Users/awil/Documents/C#/Exercise1_03/bin/Debug/net6.0/Exercise1_03.runtimeconfig.json
+/Users/awil/Documents/C#/Exercise1_03/bin/Debug/net6.0/Exercise1_03.dll
+/Users/awil/Documents/C#/Exercise1_03/bin/Debug/net6.0/Exercise1_03.pdb
+/Users/awil/Documents/C#/Exercise1_03/obj/Debug/net6.0/Exercise1_03.csproj.AssemblyReference.cache
+/Users/awil/Documents/C#/Exercise1_03/obj/Debug/net6.0/Exercise1_03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/awil/Documents/C#/Exercise1_03/obj/Debug/net6.0/Exercise1_03.AssemblyInfoInputs.cache
+/Users/awil/Documents/C#/Exercise1_03/obj/Debug/net6.0/Exercise1_03.AssemblyInfo.cs
+/Users/awil/Documents/C#/Exercise1_03/obj/Debug/net6.0/Exercise1_03.csproj.CoreCompileInputs.cache
+/Users/awil/Documents/C#/Exercise1_03/obj/Debug/net6.0/Exercise1_03.dll
+/Users/awil/Documents/C#/Exercise1_03/obj/Debug/net6.0/refint/Exercise1_03.dll
+/Users/awil/Documents/C#/Exercise1_03/obj/Debug/net6.0/Exercise1_03.pdb
+/Users/awil/Documents/C#/Exercise1_03/obj/Debug/net6.0/Exercise1_03.genruntimeconfig.cache
+/Users/awil/Documents/C#/Exercise1_03/obj/Debug/net6.0/ref/Exercise1_03.dll
