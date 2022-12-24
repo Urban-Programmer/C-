@@ -12,4 +12,7 @@ else{
   if (password.Length < 6 || !password.Any(c => char.IsDigit(c))){
     Console.WriteLine("Password must include 1 number, and be greater than 6 characters");
   }
+  else {
+    Console.WriteLine($"Account: {username} was successfully created. ");
+  }
 }
