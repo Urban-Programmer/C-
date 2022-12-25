@@ -4,7 +4,7 @@ var aGolden = new GoldenRetriever() { Name = "Aspen"};
 var anotherGolden = new GoldenRetriever() { Name = "Aspen"};
 
 var aBorder = new BorderCollie() {Name = "Aspen"};
-var anotherBorder = new BorderCollie() {Name = "Aspen"};
+var anotherBorder = new BorderCollie() {Name = "Aspesn"};
 
 var aBernese = new Bernese(){Name = "Aspen"};
 var anotherBernese = new Bernese(){Name = "Aspen"};
