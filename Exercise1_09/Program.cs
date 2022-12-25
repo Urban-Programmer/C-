@@ -13,10 +13,7 @@ static bool isPrime(int number){
     }
       count++;
   }
-
   return isPrime;
-
-
 }
 
 Console.Write("Enter a number to see if it's prime: ");
