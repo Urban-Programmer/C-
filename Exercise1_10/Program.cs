@@ -3,7 +3,7 @@
 static int[] BubbleSort(int[] array){
   int temp;
 
-  for (int j = 0; j < array.Length - 1; j++){
+  for (int j = 0; j <= array.Length; j++){
     for (int i = 0; i < array.Length - j - 1; i++){
       if (array[i] > array[i+1]){
         temp = array[i+1];
