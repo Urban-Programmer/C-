@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Enter your username, must have at least 6 chars");
+﻿using System;
+
+Console.WriteLine("Enter your username, must have at least 6 chars");
 
 var username = Console.ReadLine();
 
