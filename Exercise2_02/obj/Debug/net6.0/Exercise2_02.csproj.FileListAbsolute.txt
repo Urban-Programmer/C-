@@ -1,0 +1,15 @@
+/Users/awil/Documents/C#/Exercise2_02/obj/Debug/net6.0/Exercise2_02.csproj.AssemblyReference.cache
+/Users/awil/Documents/C#/Exercise2_02/obj/Debug/net6.0/Exercise2_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/awil/Documents/C#/Exercise2_02/obj/Debug/net6.0/Exercise2_02.AssemblyInfoInputs.cache
+/Users/awil/Documents/C#/Exercise2_02/obj/Debug/net6.0/Exercise2_02.AssemblyInfo.cs
+/Users/awil/Documents/C#/Exercise2_02/obj/Debug/net6.0/Exercise2_02.csproj.CoreCompileInputs.cache
+/Users/awil/Documents/C#/Exercise2_02/bin/Debug/net6.0/Exercise2_02
+/Users/awil/Documents/C#/Exercise2_02/bin/Debug/net6.0/Exercise2_02.deps.json
+/Users/awil/Documents/C#/Exercise2_02/bin/Debug/net6.0/Exercise2_02.runtimeconfig.json
+/Users/awil/Documents/C#/Exercise2_02/bin/Debug/net6.0/Exercise2_02.dll
+/Users/awil/Documents/C#/Exercise2_02/bin/Debug/net6.0/Exercise2_02.pdb
+/Users/awil/Documents/C#/Exercise2_02/obj/Debug/net6.0/Exercise2_02.dll
+/Users/awil/Documents/C#/Exercise2_02/obj/Debug/net6.0/refint/Exercise2_02.dll
+/Users/awil/Documents/C#/Exercise2_02/obj/Debug/net6.0/Exercise2_02.pdb
+/Users/awil/Documents/C#/Exercise2_02/obj/Debug/net6.0/Exercise2_02.genruntimeconfig.cache
+/Users/awil/Documents/C#/Exercise2_02/obj/Debug/net6.0/ref/Exercise2_02.dll
