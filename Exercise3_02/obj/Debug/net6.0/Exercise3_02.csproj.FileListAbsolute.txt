@@ -1,0 +1,5 @@
+/Users/awil/Documents/C#/Exercise3_02/obj/Debug/net6.0/Exercise3_02.csproj.AssemblyReference.cache
+/Users/awil/Documents/C#/Exercise3_02/obj/Debug/net6.0/Exercise3_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/awil/Documents/C#/Exercise3_02/obj/Debug/net6.0/Exercise3_02.AssemblyInfoInputs.cache
+/Users/awil/Documents/C#/Exercise3_02/obj/Debug/net6.0/Exercise3_02.AssemblyInfo.cs
+/Users/awil/Documents/C#/Exercise3_02/obj/Debug/net6.0/Exercise3_02.csproj.CoreCompileInputs.cache
